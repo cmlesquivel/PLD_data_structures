@@ -23,3 +23,5 @@ list comprehension
 functions set, map, lamda, reduce 
 
 ### Conclusions
+* Double linked list help us save process, memory and make the code much faster
+* It is advisable to know the functions that Python offers us to correctly handle the structures
