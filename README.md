@@ -1,9 +1,9 @@
 ### Participants
-Juan Carlos Lopez [twitter](https://www.twitter.com/jclopez100)  [github](https://github.com/Juan-Bogota) 
-Carlos Hernando Lemus Martínez [twitter](https://www.twitter.com/chmlsud)  [github](https://github.com/chmlsud)
-David Bravo Beltran [twitter](https://www.twitter.com/dbravobel)  [github](https://github.com/dbravo0)
-Juan Camilo Esquivel [twitter](https://www.twitter.com/cmlesquivel)  [github](https://github.com/cmlesquivel)
-Juan Urbano @juan13uy  [twitter](https://www.twitter.com/juan13uy)  [github](https://github.com/juan-skill)
+* Juan Carlos Lopez [twitter](https://www.twitter.com/jclopez100)  [github](https://github.com/Juan-Bogota) 
+* Carlos Hernando Lemus Martínez [twitter](https://www.twitter.com/chmlsud)  [github](https://github.com/chmlsud)
+* David Bravo Beltran [twitter](https://www.twitter.com/dbravobel)  [github](https://github.com/dbravo0)
+* Juan Camilo Esquivel [twitter](https://www.twitter.com/cmlesquivel)  [github](https://github.com/cmlesquivel)
+* Juan Urbano @juan13uy  [twitter](https://www.twitter.com/juan13uy)  [github](https://github.com/juan-skill)
 
 ### Objectives
 1. What is a double linked list? --votation 5
