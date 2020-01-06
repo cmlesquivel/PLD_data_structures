@@ -1,7 +1,7 @@
 ### Participants
-* Juan Urbano @juan13uy  [twitter](https://www.twitter.com/juan13uy)  [github](https://github.com/juan-skill)
+* Juan Urbano [twitter](https://www.twitter.com/juan13uy)  [github](https://github.com/juan-skill)
 * Sergio Quiroga [twitter](https://www.twitter.com/dbravobel)  [github](https://github.com/dbravo0)
-* Javier Garzon @juan13uy  [twitter](https://www.twitter.com/juan13uy)  [github](https://github.com/juan-skill)
+* Javier Garzon [twitter](https://www.twitter.com/juan13uy)  [github](https://github.com/juan-skill)
 * Juan Camilo Esquivel [twitter](https://www.twitter.com/cmlesquivel)  [github](https://github.com/cmlesquivel)
 * Miguel Parada [twitter](https://www.twitter.com/jclopez100)  [github](https://github.com/Juan-Bogota) 
 
